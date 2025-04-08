@@ -1,0 +1,1352 @@
+[
+    {
+        "id": "057e040c-9a4f-4632-960c-1b8afd5b3716",
+        "name": "Jinya",
+        "location": "Midtown",
+        "cuisine": "Japenese, Ramen",
+        "rating": 5,
+        "comment": "Sexy vibes + great ramen",
+        "image": "jinya"
+    },
+    {
+        "id": "f95991a2-ce6e-4065-b512-e34de4f09509",
+        "name": "Gen Korean BBQ",
+        "location": "Midtown",
+        "cuisine": "Korean BBQ",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "gen"
+    },
+    {
+        "id": "6692b258-b306-475f-8af0-a2e3b20ed1d2",
+        "name": "Axelrad Beer Garden",
+        "location": "Midtown",
+        "cuisine": "Beer, Experience",
+        "rating": 5,
+        "comment": "Awesome hammocks, 21+ after 6pm",
+        "image": "axelrad"
+    },
+    {
+        "id": "e86e4a3d-b4fc-4a9c-9e16-568b6cbcfc8e",
+        "name": "Diced Poke",
+        "location": "Midtown",
+        "cuisine": "Beer, Experience",
+        "rating": 3,
+        "comment": "Not the best but good poke",
+        "image": "dicedpoke"
+    },
+    {
+        "id": "ff7e7ea2-1ab7-445d-ab91-ed61c064a07b",
+        "name": "Barnaby's",
+        "location": "Midtown",
+        "cuisine": "American",
+        "rating": 4,
+        "comment": "Something for everyone here",
+        "image": "barnabys"
+    },
+    {
+        "id": "fa48c44e-515a-4791-9235-6f6abe1a6230",
+        "name": "Kura",
+        "location": "Midtown",
+        "cuisine": "Sushi, Experience",
+        "rating": 3,
+        "comment": "Revolving sushi bar",
+        "image": "kura"
+    },
+    {
+        "id": "c7c43f16-d8e7-4bc6-ab8d-02966f42d048",
+        "name": "Les Givral's",
+        "location": "Midtown ",
+        "cuisine": "Vietnamese",
+        "rating": 3,
+        "comment": "People love this place",
+        "image": "lesgivrals"
+    },
+    {
+        "id": "4fd35df4-b2b8-4237-a96e-c8b1ff3f5d0a",
+        "name": "Simply Pho",
+        "location": "Midtown ",
+        "cuisine": "Pho, Vietnamese",
+        "rating": 3,
+        "comment": "N/A",
+        "image": "simplypho"
+    },
+    {
+        "id": "9d2af95c-d07c-45fd-a6e9-0facebdfdf2f",
+        "name": "Pho Saigon",
+        "location": "Midtown",
+        "cuisine": "Vietnamese, Pho",
+        "rating": 3,
+        "comment": "N/A",
+        "image": "phosaigon"
+    },
+    {
+        "id": "fa30f685-3cbf-45dd-a29e-40a61b3ee56f",
+        "name": "Retrospect",
+        "location": "Midtown",
+        "cuisine": "Coffee",
+        "rating": 4,
+        "comment": "Nice outdoor study spot",
+        "image": "retrospect"
+    },
+    {
+        "id": "928d0487-3284-4d84-b63f-08364496aaaa",
+        "name": "Electric Feelgood",
+        "location": "Midtown",
+        "cuisine": "Bar, Club",
+        "rating": 5,
+        "comment": "Cute neon vibes",
+        "image": "electricfeelgood"
+    },
+    {
+        "id": "e35a2524-16c8-45e0-978c-dab95f33c35d",
+        "name": "Daisy Dukes",
+        "location": "Midtown",
+        "cuisine": "Bar, Club",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "daisydukes"
+    },
+    {
+        "id": "0843ff35-8190-4a79-b16b-89c0288ff38d",
+        "name": "Wonder Bar",
+        "location": "Midtown",
+        "cuisine": "Bar, Club",
+        "rating": 5,
+        "comment": "N/A",
+        "image": "wonderbar"
+    },
+    {
+        "id": "f135e08f-63a5-4710-97e9-7789ced1c15d",
+        "name": "Lil Woodrow’s ",
+        "location": "Midtown, Rice",
+        "cuisine": "Bar",
+        "rating": 4,
+        "comment": "TURTLE RACES @8PM ON THURSDAYS",
+        "image": "lilwoodrows"
+    },
+    {
+        "id": "30f614f9-1ddc-427c-a33b-f31be71437bb",
+        "name": "Clé ",
+        "location": "Midtown",
+        "cuisine": "Bar/Club",
+        "rating": 3,
+        "comment": "Pool darty, kindof trashy but fun",
+        "image": "cle"
+    },
+    {
+        "id": "e8323124-83ef-4299-b932-f91bcc7b3ceb",
+        "name": "Tout Suite",
+        "location": "Downtown",
+        "cuisine": "Coffee, Bakery",
+        "rating": 5,
+        "comment": "Bougie cafe + sweets",
+        "image": "toutsuite"
+    },
+    {
+        "id": "cd6997d7-3fff-4959-840e-05f6c4a542fc",
+        "name": "China Garden",
+        "location": "Downtown",
+        "cuisine": "Chinese",
+        "rating": 4,
+        "comment": "Fried rice always slaps",
+        "image": "chinagarden"
+    },
+    {
+        "id": "5e908121-92b4-4f89-bade-a94208a3049d",
+        "name": "The Blue Fish",
+        "location": "Downtown",
+        "cuisine": "Sushi",
+        "rating": 4,
+        "comment": "Fancy sushi restaurant ",
+        "image": "bluefish"
+    },
+    {
+        "id": "13ee9f0b-34b6-4bd5-89b5-661b9c2b2fff",
+        "name": "Andes Cafe",
+        "location": "Downtown",
+        "cuisine": "Mexican",
+        "rating": 3,
+        "comment": "Went with Adam once",
+        "image": "andescafe"
+    },
+    {
+        "id": "6e63af71-6334-4cb7-8556-efc9d286c67f",
+        "name": "Weights and Measures ",
+        "location": "Downtown",
+        "cuisine": "Pizza",
+        "rating": 4,
+        "comment": "Fancy / bougie, good pizza",
+        "image": "weightsandmeasures"
+    },
+    {
+        "id": "d1b393ef-2482-4c9b-971b-cc3209c53003",
+        "name": "St. Arnold's Brewery",
+        "location": "Downtown",
+        "cuisine": "Bar",
+        "rating": 4,
+        "comment": "Outdoor, great venue, food too!",
+        "image": "starnolds"
+    },
+    {
+        "id": "ba7df104-109f-4151-abf5-3f801660a96b",
+        "name": "POST Houston",
+        "location": "Downtown",
+        "cuisine": "Food Court",
+        "rating": 5,
+        "comment": "Incredible venue and amazing food selections!!!",
+        "image": "post"
+    },
+    {
+        "id": "cde85d11-1aff-48dd-8653-17ed7417a86d",
+        "name": "Sushi King",
+        "location": "Upper Kirby",
+        "cuisine": "Sushi",
+        "rating": 4,
+        "comment": "Hot damn HUGE sushi selection, usually weirdly empty though",
+        "image": "sushiking"
+    },
+    {
+        "id": "a8222e3a-a4c6-4d74-8bed-c92239acd683",
+        "name": "Fat Bao",
+        "location": "Upper Kirby",
+        "cuisine": "Bao",
+        "rating": 4,
+        "comment": "Fat Bao ALWAYS hits",
+        "image": "fatbao"
+    },
+    {
+        "id": "721a4235-cf01-4b2a-a837-5642a0d8e4e9",
+        "name": "Elevation Burger",
+        "location": "Upper Kirby",
+        "cuisine": "Burger",
+        "rating": 4,
+        "comment": "Closed down :( bao shi yi replaced it",
+        "image": "elevationburger"
+    },
+    {
+        "id": "8a0bf39d-a51a-4a21-a8d5-66e056dc0f0e",
+        "name": "Ruggles Black",
+        "location": "Upper Kirby",
+        "cuisine": "Healthy",
+        "rating": 4,
+        "comment": "Fancy and healthy",
+        "image": "rugglesblack"
+    },
+    {
+        "id": "126a6dfc-e933-4237-bf93-8aeec026c42a",
+        "name": "Star Pizza",
+        "location": "Upper Kirby",
+        "cuisine": "Pizza",
+        "rating": 4,
+        "comment": "GREAT pizza",
+        "image": "starpizza"
+    },
+    {
+        "id": "8d8ed211-ad52-47f0-bb33-673eabd1718a",
+        "name": "Halal Guys",
+        "location": "Upper Kirby",
+        "cuisine": "Halal, Falafel, Mediterranean",
+        "rating": 3,
+        "comment": "Very yummy!!",
+        "image": "halalguys"
+    },
+    {
+        "id": "55c3b79b-f110-4186-8982-f7054d079f6f",
+        "name": "Freebirds",
+        "location": "Upper Kirby",
+        "cuisine": "Burrito",
+        "rating": 4,
+        "comment": "Big ass burritos",
+        "image": "freebirds"
+    },
+    {
+        "id": "6108648f-45c5-4e31-93bd-67093276c77a",
+        "name": "Dessert Gallery",
+        "location": "Upper Kirby",
+        "cuisine": "Dessert, Bakery, Cupcake",
+        "rating": 4,
+        "comment": "Solid dessert place, not my fav tho",
+        "image": "dessertgallery"
+    },
+    {
+        "id": "c61cc14f-7070-411c-89e7-45c8765eacc8",
+        "name": "Khyber Grill",
+        "location": "Upper Kirby",
+        "cuisine": "Indian",
+        "rating": 5,
+        "comment": "Awesome authentic indian food",
+        "image": "khybergrill"
+    },
+    {
+        "id": "af548616-1c56-4341-a1fa-0bded9027e73",
+        "name": "Pondicheri",
+        "location": "Upper Kirby",
+        "cuisine": "Indian",
+        "rating": 3,
+        "comment": "Apparently unauthentic, overpriced",
+        "image": "pondicheri"
+    },
+    {
+        "id": "dce44342-ab1f-4d52-9381-6700c4cbae36",
+        "name": "Pico's",
+        "location": "Upper Kirby",
+        "cuisine": "Mexican",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "picos"
+    },
+    {
+        "id": "57e36280-bf6c-49ba-bef4-c706d9ce7b00",
+        "name": "Crave Cupcakes",
+        "location": "Upper Kirby",
+        "cuisine": "Cupcake",
+        "rating": 5,
+        "comment": "Hits every. time",
+        "image": "crave"
+    },
+    {
+        "id": "7de280a7-b824-48cb-8610-f31a046f9e2d",
+        "name": "Goode Company",
+        "location": "Upper Kirby",
+        "cuisine": "Barbecue",
+        "rating": 4,
+        "comment": "BBQ, spicy bread",
+        "image": "goode"
+    },
+    {
+        "id": "3671553a-2f3c-4d28-9557-26dd761f3ede",
+        "name": "Hobbit Cafe",
+        "location": "Upper Kirby",
+        "cuisine": "Sandwich, Burger",
+        "rating": 4,
+        "comment": "Cozy indoor and outdoor, FAT sandwiches/burgers",
+        "image": "hobbit"
+    },
+    {
+        "id": "2d45b418-8a88-470f-b9d3-a38d02a4f7ef",
+        "name": "Luna Pizzera",
+        "location": "Upper Kirby",
+        "cuisine": "Pizza",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "luna"
+    },
+    {
+        "id": "76305933-25b1-4750-bdbd-811021643955",
+        "name": "Jenni's Noodle House",
+        "location": "Upper Kirby",
+        "cuisine": "Thai",
+        "rating": 4,
+        "comment": "Casual noodle afternoon vibes",
+        "image": "jennis"
+    },
+    {
+        "id": "2e4c5996-3e9a-42e3-a167-4ded4bd3e437",
+        "name": "Smash Burger",
+        "location": "Upper Kirby, Galleria, Heights",
+        "cuisine": "Burger",
+        "rating": 3,
+        "comment": "N/A",
+        "image": "smash"
+    },
+    {
+        "id": "e2f60f48-f05e-4522-879b-f46ed7080c63",
+        "name": "Chuy’s",
+        "location": "Upper Kirby",
+        "cuisine": "Tex Mex",
+        "rating": 2,
+        "comment": "N/A",
+        "image": "chuys"
+    },
+    {
+        "id": "467a837d-7628-4a15-8c11-6530bccf0b18",
+        "name": "Kata Robata",
+        "location": "Upper Kirby",
+        "cuisine": "Sushi",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "kata"
+    },
+    {
+        "id": "0ac51689-55ff-4125-aa7f-a39d983c3fa7",
+        "name": "Rim Tanon",
+        "location": "Upper Kirby",
+        "cuisine": "Thai",
+        "rating": 5,
+        "comment": "Exciting indoors, food so yumby",
+        "image": "rimtanon"
+    },
+    {
+        "id": "e4630582-489a-4f52-a2a6-8d834fe8fe33",
+        "name": "Sushi Wabi ",
+        "location": "Upper Kirby",
+        "cuisine": "Sushi ",
+        "rating": 3,
+        "comment": "Eh not the best, good alternative to Oeishi if it's packed",
+        "image": "sushiwabi"
+    },
+    {
+        "id": "72f9bd22-c604-49fe-9822-81d913672e03",
+        "name": "Oishii",
+        "location": "Upper Kirby",
+        "cuisine": "Sushi",
+        "rating": 5,
+        "comment": "ALWAYS PACKED cheap but great sushi",
+        "image": "oishii"
+    },
+    {
+        "id": "5753184c-5d27-48fa-8201-878da8241a7b",
+        "name": "Good Dog",
+        "location": "Montrose",
+        "cuisine": "Hot Dog",
+        "rating": 5,
+        "comment": "Best hot dogs, games too",
+        "image": "gooddog"
+    },
+    {
+        "id": "c9a6d4f9-9207-4d2b-b6bf-fbdd2e6cf7fc",
+        "name": "Beet Box Blend Bar",
+        "location": "Montrose",
+        "cuisine": "Smoothie, Juice, Acai",
+        "rating": 4,
+        "comment": "Bougie, overpriced, yet good",
+        "image": "dummy"
+    },
+    {
+        "id": "61e35673-211a-4aa6-9552-53cc472af214",
+        "name": "Nourish Bar",
+        "location": "Montrose",
+        "cuisine": "Smoothie, Juice, Acai",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "17c99d2d-2013-43ab-af18-5f21642d151d",
+        "name": "Snooze",
+        "location": "Montrose",
+        "cuisine": "Breakfast",
+        "rating": 5,
+        "comment": "BEST breakfast/brunch place",
+        "image": "dummy"
+    },
+    {
+        "id": "07893a28-8c20-46f1-b941-66d3d0d4cbb1",
+        "name": "Lua Viet Kitchen",
+        "location": "Montrose ",
+        "cuisine": "Vietnamese, Pho",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "bda9a531-d92a-46bb-a4cc-bf86046e5015",
+        "name": "Buff Burger",
+        "location": "Montrose",
+        "cuisine": "Burger",
+        "rating": 5,
+        "comment": "Closed down??",
+        "image": "dummy"
+    },
+    {
+        "id": "520a2d60-323d-40cd-863b-baabe99b9ff5",
+        "name": "Black Hole",
+        "location": "Montrose",
+        "cuisine": "Coffee",
+        "rating": 4,
+        "comment": "Great place to meet up, cozy",
+        "image": "dummy"
+    },
+    {
+        "id": "d4604fed-d6f0-46ca-ac62-b1ad6314c0fa",
+        "name": "Nippon",
+        "location": "Montrose",
+        "cuisine": "Japanese",
+        "rating": 4,
+        "comment": "Yummy bento boxes!",
+        "image": "dummy"
+    },
+    {
+        "id": "e1b94057-e4c9-44e4-94ef-93e55508547b",
+        "name": "El Pueblito",
+        "location": "Montrose",
+        "cuisine": "Mexican",
+        "rating": 4,
+        "comment": "Unmatched vibes outside, great food",
+        "image": "dummy"
+    },
+    {
+        "id": "673aa7b0-fc7a-4971-8293-20c889b32fed",
+        "name": "Campesino Coffeehouse",
+        "location": "Montrose",
+        "cuisine": "Coffee",
+        "rating": 3,
+        "comment": "Cozy and eclectic, great study spot",
+        "image": "dummy"
+    },
+    {
+        "id": "347e08b1-a2ab-49a0-ba3b-07620cd2304c",
+        "name": "Les Noo'dle",
+        "location": "Montrose",
+        "cuisine": "Vietnamese",
+        "rating": 5,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "e42fd7ab-b083-4657-939f-35578dd844df",
+        "name": "Siphon",
+        "location": "Montrose",
+        "cuisine": "Coffee",
+        "rating": 4,
+        "comment": "Very productive energy, high class coffee",
+        "image": "dummy"
+    },
+    {
+        "id": "f128cc36-14c6-459e-b298-df4d4b3b06cb",
+        "name": "The Rice Box",
+        "location": "Montrose, Upper Kirby, Heights",
+        "cuisine": "Asian fusion",
+        "rating": 4,
+        "comment": "Feels like they're trying too hard, vibe is better than food",
+        "image": "dummy"
+    },
+    {
+        "id": "196b63e3-7c13-405e-868b-cfd101b1f6f7",
+        "name": "Jus Mac",
+        "location": "Montrose ",
+        "cuisine": "Mac n cheese",
+        "rating": 3,
+        "comment": "Name says it all, super filling",
+        "image": "dummy"
+    },
+    {
+        "id": "4aed46d7-ff3d-4f23-bc59-9f8719f90e83",
+        "name": "Niko Niko’s",
+        "location": "Montrose",
+        "cuisine": "Greek",
+        "rating": 3,
+        "comment": "Greek, lots of food",
+        "image": "dummy"
+    },
+    {
+        "id": "7f94ee99-2060-4e02-ae6c-d26551f121ef",
+        "name": "Romano’s Pizza",
+        "location": "Montrose",
+        "cuisine": "Pizza",
+        "rating": 3,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "6982c4e2-66d9-43c5-b5b3-ccce2961ce16",
+        "name": "Pepper Twins ",
+        "location": "Montrose",
+        "cuisine": "Chinese",
+        "rating": 5,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "d2b4862e-b38e-46b9-9b8f-0a26b3125902",
+        "name": "Southside Espresso",
+        "location": "Montrose",
+        "cuisine": "Coffee",
+        "rating": 5,
+        "comment": "Cute lil shop! Great coffee",
+        "image": "dummy"
+    },
+    {
+        "id": "3f5bbaf3-5f9c-4316-bfe6-33662cd9751b",
+        "name": "Khun Kay Thai Cafe",
+        "location": "Montrose",
+        "cuisine": "Thai, Fried rice",
+        "rating": 2,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "527be3f6-6ac7-4956-841d-39478ddc312f",
+        "name": "Cowboys & Indians Tex-in Kitchen",
+        "location": "Montrose ",
+        "cuisine": "Indian, Texan",
+        "rating": 3,
+        "comment": "I only ordered online. Try restaurant too",
+        "image": "dummy"
+    },
+    {
+        "id": "1a417529-5740-4f40-96af-970f4e6c425f",
+        "name": "Pling",
+        "location": "Montrose",
+        "cuisine": "Korean, Dumplings",
+        "rating": 4,
+        "comment": "Good but overpriced",
+        "image": "dummy"
+    },
+    {
+        "id": "2a8828c4-da0d-42a5-bf5f-143b2f9cf5e6",
+        "name": "Christy's Donuts Kolaches",
+        "location": "Montrose",
+        "cuisine": "Kolaches, Donuts",
+        "rating": 4,
+        "comment": "Big time classic kolache hotspot",
+        "image": "dummy"
+    },
+    {
+        "id": "34d8abbe-6086-42d6-a3ad-69366594c66a",
+        "name": "Backstreet cafe",
+        "location": "Montrose",
+        "cuisine": "American cuisine ",
+        "rating": 5,
+        "comment": "Quaint + classy outdoor restaurant, great for dates / fancy meals",
+        "image": "dummy"
+    },
+    {
+        "id": "0055549e-1e96-4dd2-a2c1-5546fc1a509b",
+        "name": "Lucille's ",
+        "location": "Museum ",
+        "cuisine": "Breakfast",
+        "rating": 4,
+        "comment": "Bougie breakfast",
+        "image": "dummy"
+    },
+    {
+        "id": "4d30c8a6-4226-496c-a423-6c690dd4e496",
+        "name": "Java Lava Brew",
+        "location": "Museum",
+        "cuisine": "Coffee",
+        "rating": 4,
+        "comment": "Good study/hangout spot",
+        "image": "dummy"
+    },
+    {
+        "id": "781eb0c1-81f7-45ad-b172-9b1b5516c4f2",
+        "name": "Bodega's taco shop",
+        "location": "Museum",
+        "cuisine": "Tex mex + bar",
+        "rating": 4,
+        "comment": "Cheap margaritas + don't card, great authentic tex mex vibes but mediocre food",
+        "image": "dummy"
+    },
+    {
+        "id": "61968869-c5b8-4783-bcf8-513078b506bc",
+        "name": "Buffalo Grille",
+        "location": "Weslayan",
+        "cuisine": "American, Pancake",
+        "rating": 3,
+        "comment": "Big ass pancakes",
+        "image": "dummy"
+    },
+    {
+        "id": "7fe77f9c-38a1-4c52-8263-109fe0d8817b",
+        "name": "Agora",
+        "location": "Westheimer",
+        "cuisine": "Coffee, Bakery",
+        "rating": 5,
+        "comment": "\"I know a place\". Serves beer, great indoor vibes",
+        "image": "agora"
+    },
+    {
+        "id": "1a759642-ff6c-4a2b-b82c-e92e5d75add9",
+        "name": "Velvet Taco",
+        "location": "Westheimer",
+        "cuisine": "TexMex, Taco",
+        "rating": 4,
+        "comment": "Decent tacos",
+        "image": "dummy"
+    },
+    {
+        "id": "40b85efc-cffc-46ad-891f-f272405844e5",
+        "name": "Common Bond",
+        "location": "Westheimer, Holcombe",
+        "cuisine": "Coffee, Bakery",
+        "rating": 5,
+        "comment": "BDE in this store. Phenomenal pastries",
+        "image": "dummy"
+    },
+    {
+        "id": "62aae1a0-8510-4f61-9b62-f99d799b6972",
+        "name": "The Burger Joint",
+        "location": "Westheimer",
+        "cuisine": "Burger",
+        "rating": 4,
+        "comment": "LIT burger place, good food",
+        "image": "dummy"
+    },
+    {
+        "id": "760f7fba-c557-44b8-98a5-3f8d402d8399",
+        "name": "Hugo's ",
+        "location": "Westheimer",
+        "cuisine": "Mexican",
+        "rating": 5,
+        "comment": "Fancy but GOOD food + breakfast",
+        "image": "dummy"
+    },
+    {
+        "id": "98966ee4-c134-4e2a-b13c-4d9a8db64ee6",
+        "name": "Empire Cafe",
+        "location": "Westheimer",
+        "cuisine": "Coffee, Bakery",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "76d45a35-ec29-407f-b0a3-737288dec96e",
+        "name": "Ramen Tatsu-Ya",
+        "location": "Westheimer",
+        "cuisine": "Japanese, Ramen",
+        "rating": 5,
+        "comment": "LIT ramen place, very salty",
+        "image": "dummy"
+    },
+    {
+        "id": "4e0e8dba-e458-4ba0-aa1b-5f901ba2e0fd",
+        "name": "Tacos Tierra Caliente",
+        "location": "Westheimer",
+        "cuisine": "Mexican, Taco, Truck",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "61ec75ed-aa03-47cb-9407-32deb3ab79c8",
+        "name": "Milk + sugar ",
+        "location": "Westheimer ",
+        "cuisine": "Ice cream",
+        "rating": 3,
+        "comment": "Overpriced but cute ",
+        "image": "dummy"
+    },
+    {
+        "id": "eb226486-87c2-4756-98b8-46aa74ac40ae",
+        "name": "Uchi",
+        "location": "Westheimer ",
+        "cuisine": "Japanese",
+        "rating": 5,
+        "comment": "SUPA fancy japanese food",
+        "image": "dummy"
+    },
+    {
+        "id": "5e8c7006-f86d-4c0e-827f-47be8206064c",
+        "name": "Cafe Brazil",
+        "location": "Westheimer",
+        "cuisine": "Spanish",
+        "rating": 4,
+        "comment": "Cute outdoor eating + lights",
+        "image": "dummy"
+    },
+    {
+        "id": "274dd9eb-98a1-4beb-b3bc-66261f38360e",
+        "name": "FIX",
+        "location": "Westheimer",
+        "cuisine": "Coffee",
+        "rating": 4,
+        "comment": "No wifi :,( cute Jim Koehn TX art for sale",
+        "image": "dummy"
+    },
+    {
+        "id": "1e711d5c-894e-4c64-954e-c488ef6a9a34",
+        "name": "Pokeworks ",
+        "location": "Westheimer, Rice",
+        "cuisine": "Poke ",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "ef300e26-9cbc-4d17-9782-d5a8c2a9cb5a",
+        "name": "Auntie Chang's Dumpling House",
+        "location": "Westheimer",
+        "cuisine": "Chinese",
+        "rating": 4,
+        "comment": "Yummy dumplings :) get pan fried pork dumplings ",
+        "image": "dummy"
+    },
+    {
+        "id": "9bb67dab-53db-42ca-89a3-05ab2a909044",
+        "name": "Pistolero's",
+        "location": "Westheimer",
+        "cuisine": "Mexican, Bar",
+        "rating": 5,
+        "comment": "Awesome tacos and drinks",
+        "image": "dummy"
+    },
+    {
+        "id": "e4c01e79-0601-4838-92c3-8185c64e61e4",
+        "name": "Present Company",
+        "location": "Westheimer",
+        "cuisine": "Bar",
+        "rating": 4,
+        "comment": "Fun party vibes and good food (pizza, burgers)",
+        "image": "dummy"
+    },
+    {
+        "id": "15a8c6fd-36a8-4193-8ea4-1c911590d0ad",
+        "name": "Bebidas",
+        "location": "River Oaks",
+        "cuisine": "Smoothie, Juice, Acai",
+        "rating": 4,
+        "comment": "Nice to study, grab juice",
+        "image": "dummy"
+    },
+    {
+        "id": "04e7d283-d18f-4e6d-8f8b-abe4c7c3d1d3",
+        "name": "Liberty Taco",
+        "location": "Galleria Area",
+        "cuisine": "Taco",
+        "rating": 4,
+        "comment": "Solid taco place",
+        "image": "dummy"
+    },
+    {
+        "id": "119c125e-be7c-4063-b042-65632ce54714",
+        "name": "Caracol",
+        "location": "Galleria Area",
+        "cuisine": "Mexican",
+        "rating": 4,
+        "comment": "SUPA fancy mexican + seafood",
+        "image": "dummy"
+    },
+    {
+        "id": "6821b6fd-d1e9-4e91-89da-cdbdc2a8c649",
+        "name": "Adair Kitchen",
+        "location": "Galleria Area ",
+        "cuisine": "Sandwich, salad, healthy",
+        "rating": 3,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "f4418770-6f26-40b3-aa7c-9ac3448d5036",
+        "name": "Hopdoddy",
+        "location": "Rice",
+        "cuisine": "Burger",
+        "rating": 4,
+        "comment": "Great vibes, great burgers",
+        "image": "dummy"
+    },
+    {
+        "id": "acd85001-c8c2-49be-bca9-6e4acef02692",
+        "name": "The Chocolate Bar",
+        "location": "Rice ",
+        "cuisine": "Dessert, Bakery ",
+        "rating": 4,
+        "comment": "Always there, good ice cream",
+        "image": "dummy"
+    },
+    {
+        "id": "41b27f81-a69e-480e-b84b-462b9b08b12e",
+        "name": "Coco Crepes",
+        "location": "Rice",
+        "cuisine": "Crepe, Coffee",
+        "rating": 4,
+        "comment": "Hot damn the savory crepes are so good",
+        "image": "dummy"
+    },
+    {
+        "id": "66d1d271-3db3-45f0-8aa1-335085f81c40",
+        "name": "Local Foods",
+        "location": "Rice",
+        "cuisine": "Sandwich, Healthy",
+        "rating": 4,
+        "comment": "Great vibes + scrumptious healthy food",
+        "image": "dummy"
+    },
+    {
+        "id": "3739d1c6-5d4c-47a1-ba05-d434ca696f81",
+        "name": "Steel City Pops",
+        "location": "Rice",
+        "cuisine": "Popsicle, Ice Cream",
+        "rating": 4,
+        "comment": "Bougie but cute idea + tastes good",
+        "image": "dummy"
+    },
+    {
+        "id": "a8c09b8c-e398-4ded-a16f-b642ce96d668",
+        "name": "Susiecakes",
+        "location": "Rice",
+        "cuisine": "Bakery, Cupcake",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "ded7cf01-8d20-427d-9675-9cdd97fee97c",
+        "name": "Sweet Paris",
+        "location": "Rice",
+        "cuisine": "Crepe, Breakfast",
+        "rating": 5,
+        "comment": "Yummy nutella crepes, cute place to meet",
+        "image": "dummy"
+    },
+    {
+        "id": "b4a18918-32f6-471c-b3d2-b2be2b6b7294",
+        "name": "Shake Shack",
+        "location": "Rice",
+        "cuisine": "Burger, Milkshake",
+        "rating": 3,
+        "comment": "Overhyped, kinda mediocre",
+        "image": "dummy"
+    },
+    {
+        "id": "e7218275-3ffd-49ff-ae38-4646b3d6d166",
+        "name": "Torchy's Tacos",
+        "location": "Rice",
+        "cuisine": "Taco",
+        "rating": 4,
+        "comment": "Overhyped but still always good",
+        "image": "dummy"
+    },
+    {
+        "id": "ed995e01-a0dd-447c-8a28-ca62a71e3b33",
+        "name": "Oh My Gogi",
+        "location": "Rice",
+        "cuisine": "Fusion, Truck",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "86f2fef4-9553-4c6c-9c23-6fe8ced81146",
+        "name": "Thai Village",
+        "location": "Rice",
+        "cuisine": "Thai",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "f0a33cda-045c-4d96-ac0c-d6d005738d48",
+        "name": "Teahouse",
+        "location": "Rice, Westheimer",
+        "cuisine": "Tea, Boba",
+        "rating": 5,
+        "comment": "Ride or die. Study at Westheimer/Shepherd",
+        "image": "dummy"
+    },
+    {
+        "id": "eb05b1af-88cc-4f8e-98f2-0839629cb5b7",
+        "name": "Fellini Cafe",
+        "location": "Rice",
+        "cuisine": "Coffee, Bakery",
+        "rating": 4,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "9732bd02-e7fd-46bb-8e6e-627e72ac0ba4",
+        "name": "Mercantile",
+        "location": "Rice",
+        "cuisine": "Coffee ",
+        "rating": 3,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "84f2aef3-8e1c-4153-839e-506d3e62384c",
+        "name": "Tropicales ",
+        "location": "Rice",
+        "cuisine": "Coffee",
+        "rating": 4,
+        "comment": "Nice place to meet or work",
+        "image": "dummy"
+    },
+    {
+        "id": "bdfa2951-ddde-4668-ab92-ffb9c6a6d422",
+        "name": "Hungry's ",
+        "location": "Rice",
+        "cuisine": "American",
+        "rating": 3,
+        "comment": "Fun place to dine out, somewhat fancy",
+        "image": "dummy"
+    },
+    {
+        "id": "3a9bed71-33b1-418b-8e77-0b9db813eadd",
+        "name": "Yoyo's Hot Dogs",
+        "location": "Rice",
+        "cuisine": "Hot Dog",
+        "rating": 5,
+        "comment": "Open Wed-Sat, 8pm-3am, long ass lines",
+        "image": "dummy"
+    },
+    {
+        "id": "798d613f-cace-499f-8eb0-984da86b1edb",
+        "name": "Grinders",
+        "location": "Rice",
+        "cuisine": "Coffee + CBD",
+        "rating": 3,
+        "comment": "Cute apothecary connected, pricey but nice",
+        "image": "dummy"
+    },
+    {
+        "id": "a8232688-045b-4923-9bf3-2c09abc3abd1",
+        "name": "Tamashi",
+        "location": "Rice / Holcombe",
+        "cuisine": "Sushi, Ramen",
+        "rating": 4,
+        "comment": "Cozy sushi hideout on Holcombe, supposedly good ramen too",
+        "image": "dummy"
+    },
+    {
+        "id": "ac968068-d36e-43e7-ad8c-fb07e250f0bf",
+        "name": "Tiger Noodle House",
+        "location": "Rice",
+        "cuisine": "Sichuan",
+        "rating": 4,
+        "comment": "Good tofu dish",
+        "image": "dummy"
+    },
+    {
+        "id": "0eb9dc15-0d42-4f13-987c-75cd8fb25450",
+        "name": "Dandelion Cafe",
+        "location": "Bellaire",
+        "cuisine": "Coffee, Breakfast",
+        "rating": 4,
+        "comment": "Quaint lil cafe among strip malls",
+        "image": "dummy"
+    },
+    {
+        "id": "8d687f00-ff52-4dc9-9c8b-ea42273b82a3",
+        "name": "Lemongrass",
+        "location": "Bellaire",
+        "cuisine": "Asian fusion",
+        "rating": 2,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "fa55c540-be89-440a-a379-524873cdd3e9",
+        "name": "Flower & Cream",
+        "location": "Bellaire",
+        "cuisine": "Ice Cream",
+        "rating": 4,
+        "comment": "Yummy flavors, fun colored cones!",
+        "image": "dummy"
+    },
+    {
+        "id": "9460bff7-8efc-4080-a90b-82fcf555c8dd",
+        "name": "Samurai",
+        "location": "Bellaire",
+        "cuisine": "Hibachi, Sushi",
+        "rating": 4,
+        "comment": "Good food, GO BACK for hibachi!!",
+        "image": "dummy"
+    },
+    {
+        "id": "ac5ba35d-0bf6-4418-b9f9-b690437cd1e8",
+        "name": "Fadi's ",
+        "location": "Meyerland",
+        "cuisine": "Mediterranean",
+        "rating": 4,
+        "comment": "GREAT mediterranean food!!",
+        "image": "dummy"
+    },
+    {
+        "id": "581fa1ac-2097-463f-b4d8-f8ff428a6096",
+        "name": "Nekter Juice Bar",
+        "location": "Bellaire, Edwards",
+        "cuisine": "Smoothie, Juice, Acai",
+        "rating": 5,
+        "comment": "Acai always hits right",
+        "image": "dummy"
+    },
+    {
+        "id": "b6ddf0c3-8585-41b7-99d5-5947826eb0cd",
+        "name": "KA Sushi",
+        "location": "Heights",
+        "cuisine": "Sushi",
+        "rating": 5,
+        "comment": "Supa fancy sushi place",
+        "image": "dummy"
+    },
+    {
+        "id": "40367ceb-d1ac-4679-8598-aab90515838c",
+        "name": "Gelazzi",
+        "location": "Heights ",
+        "cuisine": "Ice Cream",
+        "rating": 5,
+        "comment": "Cute, humble lil retro ice cream shop! Accordion guy once there",
+        "image": "dummy"
+    },
+    {
+        "id": "8597568f-a805-48f3-841e-545e6964654b",
+        "name": "Fat Cat Creamery",
+        "location": "Heights",
+        "cuisine": "Ice Cream",
+        "rating": 5,
+        "comment": "Overpriced but cute + good",
+        "image": "dummy"
+    },
+    {
+        "id": "47f4c62f-e141-4c4c-9ebd-ed1f01d5a866",
+        "name": "Juice Girl",
+        "location": "Heights, Downtown",
+        "cuisine": "Smoothie, Juice, Acai",
+        "rating": 5,
+        "comment": "Great acai bowls",
+        "image": "dummy"
+    },
+    {
+        "id": "cb7360dd-14ee-4c79-accb-a6c601a33ed7",
+        "name": "Tacos A Go Go",
+        "location": "Heights, Midtown",
+        "cuisine": "Taco",
+        "rating": 4,
+        "comment": "Good tacos, good vibes, slaps",
+        "image": "dummy"
+    },
+    {
+        "id": "9811fe87-0333-49f3-bb92-0b40b87c46d8",
+        "name": "Sing",
+        "location": "Heights",
+        "cuisine": "Fusion ",
+        "rating": 3,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "9425aa65-ff26-4db1-9221-4cf468493874",
+        "name": "Flower Child",
+        "location": "Heights",
+        "cuisine": "Healthy",
+        "rating": 4,
+        "comment": "Bougie AF but healthy and delicious",
+        "image": "dummy"
+    },
+    {
+        "id": "3efe7ad9-1ff4-4207-a132-4ede45381cad",
+        "name": "Antidote",
+        "location": "Heights",
+        "cuisine": "Coffee",
+        "rating": 3,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "7b3177d3-f96d-4603-9891-1d2c3328ab51",
+        "name": "Onion Creek",
+        "location": "Heights",
+        "cuisine": "American",
+        "rating": 5,
+        "comment": "Cute ass outdoor nighttime vibe, good waffles for breakfast too",
+        "image": "dummy"
+    },
+    {
+        "id": "78978c2b-bd5a-4046-a24c-cafe246720bc",
+        "name": "Tea + Victory ",
+        "location": "Heights",
+        "cuisine": "Coffee",
+        "rating": 5,
+        "comment": "GAMES! Might be entry fee / reservations now",
+        "image": "dummy"
+    },
+    {
+        "id": "78f326a4-2892-4ef9-babc-3158a1ac3401",
+        "name": "El Gato Cat Cafe",
+        "location": "Heights",
+        "cuisine": "Coffee, Cats",
+        "rating": 4,
+        "comment": "CATS, $5 entry",
+        "image": "dummy"
+    },
+    {
+        "id": "96026dad-0758-45f0-a1c6-54e07cbd4fa8",
+        "name": "Asian Heights Cafe",
+        "location": "Heights",
+        "cuisine": "Asian",
+        "rating": 3,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "3a3d9879-766a-44d6-bdfd-3bc22901a2eb",
+        "name": "Miyako",
+        "location": "Heights",
+        "cuisine": "Sushi",
+        "rating": 4,
+        "comment": "Expensive ",
+        "image": "dummy"
+    },
+    {
+        "id": "853a448f-a812-4d2f-98a4-caca42db3574",
+        "name": "Pho Binh",
+        "location": "Heights",
+        "cuisine": "Vietnamese",
+        "rating": 4,
+        "comment": "Good vibes + good pho, nice outdoor seating too",
+        "image": "dummy"
+    },
+    {
+        "id": "880b4a03-8f31-42a1-bfe8-d47c61193770",
+        "name": "Wolfsmiths Coffee",
+        "location": "Heights",
+        "cuisine": "Coffee",
+        "rating": 5,
+        "comment": "\"Coolest coffeeshop in Houston\", also a motorcycle shop. GREAT VIBES.",
+        "image": "dummy"
+    },
+    {
+        "id": "95adfdd9-b16b-41d4-84a7-6b18240bd43f",
+        "name": "Throughgood Coffee",
+        "location": "Heights",
+        "cuisine": "Coffee ",
+        "rating": 3,
+        "comment": "Kinda barren but sweet",
+        "image": "dummy"
+    },
+    {
+        "id": "1e308090-a80c-480b-ac5b-05c9c8f935d1",
+        "name": "EQ Heights",
+        "location": "Heights",
+        "cuisine": "Coffee",
+        "rating": 5,
+        "comment": "Cozy indoor vibes :) also sells beer + wine",
+        "image": "dummy"
+    },
+    {
+        "id": "aa35b6c9-03fc-471e-baa6-73ca62503ae8",
+        "name": "A 2nd Cup",
+        "location": "Heights",
+        "cuisine": "Coffee",
+        "rating": 5,
+        "comment": "Only outdoor for covid, fights human trafficking, beautiful items for sale!",
+        "image": "dummy"
+    },
+    {
+        "id": "d58fb83d-c6bc-4758-9ace-d086552532ae",
+        "name": "Kolache Shoppe",
+        "location": "Heights, Edwards",
+        "cuisine": "Kolaches, Donuts",
+        "rating": 3,
+        "comment": "Stupid service but bougie kolaches ",
+        "image": "dummy"
+    },
+    {
+        "id": "4741ae39-62f3-4c74-a9fc-3562afb8ff17",
+        "name": "Street Food Thai Market",
+        "location": "Heights",
+        "cuisine": "Thai",
+        "rating": 4,
+        "comment": "Jank building but great food, + asian snacks",
+        "image": "dummy"
+    },
+    {
+        "id": "89cc0cfa-e7ee-41eb-bf2f-60cdfec35dd5",
+        "name": "Sweet Tomatoes",
+        "location": "Katy Freeway",
+        "cuisine": "American, Buffet",
+        "rating": 6,
+        "comment": "CLOSED DOWN FOR GOOD",
+        "image": "dummy"
+    },
+    {
+        "id": "f452a353-812f-4664-9e9c-b522981e5434",
+        "name": "Fufu Cafe",
+        "location": "Chinatown",
+        "cuisine": "Chinese",
+        "rating": 4,
+        "comment": "Yummy authentic chinese food",
+        "image": "dummy"
+    },
+    {
+        "id": "7fe6e4e5-2f59-40b2-b968-7782f1c2cdeb",
+        "name": "Cafe 101",
+        "location": "Chinatown",
+        "cuisine": "Fusion, Boba",
+        "rating": 3,
+        "comment": "Decent food, mega selection",
+        "image": "dummy"
+    },
+    {
+        "id": "7bb64d43-6238-4563-b36d-44ea5101912b",
+        "name": "Six Ping",
+        "location": "Chinatown",
+        "cuisine": "Bakery ",
+        "rating": 3,
+        "comment": "N/A",
+        "image": "dummy"
+    },
+    {
+        "id": "f64cda34-1dee-4761-acbd-b78c319a1372",
+        "name": "Mala Sichuan",
+        "location": "Chinatown",
+        "cuisine": "Chinese",
+        "rating": 4,
+        "comment": "Big table of great spicy sichuan food!!!!",
+        "image": "dummy"
+    },
+    {
+        "id": "4a3fdf0c-c65d-4f4b-974d-f573a8d44155",
+        "name": "Nu Cafe",
+        "location": "Chinatown ",
+        "cuisine": "Ice Cream",
+        "rating": 3,
+        "comment": "Weird ice cream. Don't go lol",
+        "image": "dummy"
+    },
+    {
+        "id": "7681bca4-7e23-4b69-96ce-525d1faa7e38",
+        "name": "Aqua S",
+        "location": "Chinatown",
+        "cuisine": "Ice Cream",
+        "rating": 5,
+        "comment": "Aesthetic cotton candy ice cream",
+        "image": "dummy"
+    },
+    {
+        "id": "612c69b7-31f9-49f6-91b7-fd95f0b0a4ab",
+        "name": "Bao Shi Yi",
+        "location": "Chinatown",
+        "cuisine": "Chinese",
+        "rating": 4,
+        "comment": "Yummy bao. Interesting root soup",
+        "image": "dummy"
+    },
+    {
+        "id": "263470e1-1a67-4dcf-9443-67d7a6703a34",
+        "name": "Tiger Sugar",
+        "location": "Chinatown",
+        "cuisine": "Boba",
+        "rating": 4,
+        "comment": "Giant plush tiger inside",
+        "image": "dummy"
+    },
+    {
+        "id": "199da7f9-78b5-4055-a010-303b6a4838c8",
+        "name": "One dragon",
+        "location": "Chinatown",
+        "cuisine": "Chinese",
+        "rating": 4,
+        "comment": "Get the crispy pork bao!! And the scallion pancakes (kinda greasy tho)",
+        "image": "dummy"
+    },
+    {
+        "id": "6a1c3536-9b45-459f-a354-825ce7cc9a9d",
+        "name": "Gong Cha",
+        "location": "Chinatown",
+        "cuisine": "Boba",
+        "rating": 4,
+        "comment": "güd boba",
+        "image": "dummy"
+    },
+    {
+        "id": "108df520-5c36-455b-9871-cf4ea47c71fa",
+        "name": "Killen's BBQ",
+        "location": "Pearland",
+        "cuisine": "Barbecue",
+        "rating": 4,
+        "comment": "Far but good",
+        "image": "dummy"
+    },
+    {
+        "id": "434bd4a8-183d-465f-a426-1746d6242770",
+        "name": "Satellite bar",
+        "location": "Far",
+        "cuisine": "Bar ",
+        "rating": 5,
+        "comment": "Incredible alternative live music and scene. Music is extremely loud but venue is like a hole in the wall.",
+        "image": "dummy"
+    }
+]
